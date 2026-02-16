@@ -11,5 +11,7 @@ jobs:
     with:
       sql_server_name: client-sql-prod
       database_name: clientdb
+      location: Central India
+
 
     secrets: inherit
